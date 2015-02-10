@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SyncfusionLightSwitchHTML.Client</id>
+    <version>12.4.0.24</version>
+    <authors>Syncfusion Inc.</authors>
+    <owners>Syncfusion Inc.</owners>
+    <licenseUrl>http://www.syncfusion.com/nuget/license</licenseUrl>
+    <projectUrl>http://www.syncfusion.com</projectUrl>
+    <iconUrl>http://www.syncfusion.com/content/images/nuget/sync_logo_icon.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Essential Studio for LightSwitch HTML contains over 15 unique design-time extensions designed from the ground up for LOB application development, including grids, charts, gauges, editors, reportviewer and much more.</description>
+    <copyright>Copyright 2001 - 2014 Syncfusion Inc.</copyright>
+    <dependencies>
+      <dependency id="jQuery.Easing" version="1.3.0.1" />
+      <dependency id="jquery-globalize" version="0.1.3" />
+      <dependency id="jQuery" version="1.9.1" />
+    </dependencies>
+  </metadata>
+</package>
